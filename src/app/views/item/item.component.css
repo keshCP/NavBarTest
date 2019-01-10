@@ -1,0 +1,20 @@
+
+.container-fluid{
+    border: 1px solid black;
+}
+
+
+
+.row >div{
+    border: 1px solid red;
+    height: auto;
+    min-height:50px; 
+}
+
+
+.card >div{
+    padding: 10px;
+}
+
+
+

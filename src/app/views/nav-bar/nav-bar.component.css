@@ -1,0 +1,14 @@
+#cart{
+    margin-left: 1180px; 
+    border :1px solid black;
+    color: black;
+   
+}
+
+#cart >a{
+    background-color:royalblue;
+    color:white;
+   padding: 5px 5px 10px 50px  ;
+   margin: 0;
+   /*padding:auto;*/
+}
